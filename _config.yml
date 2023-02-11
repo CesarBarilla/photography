@@ -1,7 +1,7 @@
 site: César Barilla Photography
 
-url:  /photography
-baseurl: 
+url:  http://cesarbarilla.com
+baseurl: /photography
 
 collections:
   pages:
