@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: César Barilla Photography
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,17 +8,17 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: Street photography, black and white, people and things. All photographs by César Barilla.
 
 grid_settings:
   overlay_opacity: 0.8
@@ -34,7 +34,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/csr_b/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
