@@ -3,10 +3,10 @@ title: 'Rishikesh'
 subtitle: ''
 date: 2022-05-11 00:00:00
 description: Street photography, black and white, people and things.
-featured_image: 'images/IMG_1159.jpg'
+featured_image: 'images/IMG_1159-sq-preview.jpg'
 ---
 
-![]({{site.baseurl}}/images/IMG_1159.jpg)
+![]({{site.baseurl}}/images/IMG_1159-landscape.jpg)
 
 I took this photograph on a trip to Rishikesh in May 2022.
 
