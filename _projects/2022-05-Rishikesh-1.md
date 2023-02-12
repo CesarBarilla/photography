@@ -6,7 +6,12 @@ description: Street photography, black and white, people and things.
 featured_image: 'images/IMG_1159-sq-preview.jpg'
 ---
 
-![]({{site.baseurl}}/images/IMG_1159-landscape.jpg)
+<!-- ![]({{site.baseurl}}/images/IMG_1159-landscape.jpg) -->
+
+<div class="gallery" data-columns="1">
+	<img src="{{site.baseurl}}/images/IMG_1159.jpg">
+</div>
+
 
 I took this photograph on a trip to Rishikesh in May 2022.
 
