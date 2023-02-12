@@ -1,11 +1,11 @@
 ---
 title: About me
-subtitle: Hi ! My name is César Barilla and I am a photographer -- at least when I am not busy being a PhD student. 
+subtitle: Hi ! My name is César Barilla; I take photographs when I'm not busy being a PhD student.
 description: About César Barilla
-featured_image: photography/images/demo/landscape-05.jpg
+featured_image: images/self-portrait.jpg
 ---
 
-![](/images/demo/landscape-05.jpg)
+![]({{site.baseurl}}/images/self-portrait.jpg)
 
 <!-- I started doing photography seriously  -->
 

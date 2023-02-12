@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
+    # - title: 'Gallery'
+    #   url: '/'
     - title: 'Gallery'
-      url: '/'
-    - title: 'Portofolio'
-      url: '/portfolio/'
+      url: ''
     # - title: 'Blog'
     #   url: '/blog/'
     - title: 'About'
