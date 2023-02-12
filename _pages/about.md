@@ -5,7 +5,7 @@ description: About César Barilla
 featured_image: images/self-portrait.jpg
 ---
 
-![]({{site.baseurl}}/images/self-portrait.jpg)
+![]({{site.baseurl}}/images/self-portrait-sq.jpg)
 
 <!-- I started doing photography seriously  -->
 
