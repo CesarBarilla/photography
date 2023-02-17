@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: César Barilla Photography
+  site_title: César Barilla
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Gallery'
+    - title: 'Photography'
       url: '/gallery/'
     # - title: 'Blog'
     #   url: '/blog/'
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Street photography, black and white, people and things. All photographs by César Barilla.
+  footer_tagline: All photographs by César Barilla.
 
 grid_settings:
   overlay_opacity: 0
